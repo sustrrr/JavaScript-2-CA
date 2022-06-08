@@ -1,6 +1,6 @@
 # JavaScript-2-CA
 
-![image](https://github.com/sustrrr/project-exam-two/blob/main/src/img/contact.jpg)
+![image](https://github.com/sustrrr/JavaScript-2-CA/blob/main/img/JavaScript-2-CA.jpg)
 
 A simple overview of the use/purpose of the project.
 
