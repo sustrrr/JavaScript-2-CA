@@ -1,0 +1,74 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  margin: 20px;
+}
+
+.container {
+  max-width: 900px;
+  margin: 20px auto;
+}
+
+.product-container {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.product {
+  margin: 1rem;
+  padding: 1rem;
+  background: white;
+  border: 1px solid lightgrey;
+  border-radius: 1rem;
+  min-width: 200px;
+  position: relative;
+}
+
+.product i {
+  position: absolute;
+  right: 10px;
+  top: 10px;
+  font-size: 30px;
+}
+
+h1 {
+  margin: 7vw 0vw 4vw 0vw;
+}
+
+input {
+  padding: 1vw 7vw 1vw 2vw;
+  margin-bottom: 2vw;
+}
+
+.product i.fa {
+  color: darkred;
+}
+
+button {
+  color: rgb(255, 255, 255);
+  background-color: rgb(163, 38, 38);
+  padding: 1vw;
+  position: relative;
+  top: 3vw;
+  border: 0vw solid;
+}
+
+.menu {
+  margin: 15px 0;
+}
+
+.menu a {
+  color: rgb(72, 72, 72);
+  text-decoration: none;
+  padding: 1vw;
+  border: 0.2vw solid rgb(72, 72, 72);
+}
+
+.menu a.active {
+  color: rgb(255, 255, 255);
+  background-color: rgb(72, 72, 72);
+  padding: 1vw;
+}
