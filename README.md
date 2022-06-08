@@ -1,6 +1,6 @@
 # JavaScript-2-CA
 
-![image](https://user-images.githubusercontent.com/52622303/164316813-4b12d99f-aeb7-4069-85cf-e72b3a50ac99.png)
+![image](069-85cf-e72b3a50ac99.png](https://github.com/sustrrr/project-exam-two/blob/main/src/img/contact.jpg)
 
 A simple overview of the use/purpose of the project.
 
@@ -29,7 +29,7 @@ This is where you list how to get the project started. It typically just include
 1. Clone the repo:
 
 ```bash
-git clone git@github.com:NoroffFEU/portfolio-1-example.git
+git clone (https://github.com/sustrrr/JavaScript-2-CA.git)
 ```
 
 2. Install the dependencies:
